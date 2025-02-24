@@ -1,3 +1,3 @@
 # Apuntes de la asignatura
 
-[Volteando monedas](index.html)
+[Inicio](index.html)
